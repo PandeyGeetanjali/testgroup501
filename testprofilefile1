@@ -1,2 +1,2 @@
 console.log("Testing github push");
-Cosole.log("Push to tealium- successful");
+console.log("Push to tealium- successful");
